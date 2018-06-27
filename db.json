@@ -12,9 +12,9 @@
     "name": "typicode"
   }
   
-  "transportAPI": [
-  {"_id":"5b33cbad1fd41790c88b1d3f","bindingID":2,"status":false,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus265","direction":null,"transportAmount":1}  
-  {"_id":"34545fghghgfhgf","bindingID":3,"status":true,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus245","direction":null,"transportAmount":10}
+  "transportapi": [
+  {"_id":"5b33cbad1fd41790c88b1d3f","bindingID":2,"status":false,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus265","direction":null,"transportAmount":1},  
+  {"_id":"34545fghghgfhgf","bindingID":3,"status":true,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus245","direction":null,"transportAmount":10},
   {"_id":"344545fghgfhgfh","bindingID":4,"status":false,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus15","direction":null,"transportAmount":13}
   
 ]
