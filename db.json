@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "transportapi": [
-    {"id":"344545fghgfhgfh","bindingID":5,"status":true,"command":"create","radius":700,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus157","direction":null,"transportAmount":19},
+    {"id":"344545fg223","bindingID":5,"status":true,"command":"create","radius":700,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus157","direction":null,"transportAmount":19},
     {"id":"344545fghgdffh","bindingID":1,"status":true,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus15","direction":"Zoo","transportAmount":13},
     { "id":"5b33cbad1fd41790c88b1d3f", "bindingID":2, "status":false,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus265","direction":null,"transportAmount":1},  
     {"id":"34545fghghgfhgf","bindingID":3,"status":true,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus245","direction":null,"transportAmount":10},
