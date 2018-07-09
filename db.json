@@ -23,9 +23,9 @@
     {"id":"844545fghgfhgfh","bindingID":4,"status":false,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus15","direction":null,"transportAmount":13}
   ],
   "transport": [
-    {"bindingID":"ce081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"BUS","transport":[{"transportLine":"Bus 183","direction":'HBF'},{"transportLine":"Bus 245","direction":null}], "transportAmountLowerBound":"","transportAmountUpperBound":"9"}],"status":true},
+    {"bindingID":"ce081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"BUS","transport":[{"transportLine":"Bus 183","direction":"HBF"},{"transportLine":"Bus 245","direction":null}], "transportAmountLowerBound":"","transportAmountUpperBound":"9"}],"status":true},
     {"bindingID":"qe081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"TRAIN","transport":[{"transportLine":"Bus 245","direction":null}], "transportAmountLowerBound":"7","transportAmountUpperBound":""}],"status":false},
-    {"bindingID":"5e081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"TRAM","transport":[{"transportLine":"Bus 148","direction":'Potsdam'}], "transportAmountLowerBound":"4","transportAmountUpperBound":"9"}],"status":true},
+    {"bindingID":"5e081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"TRAM","transport":[{"transportLine":"Bus 148","direction":"Potsdam"}], "transportAmountLowerBound":"4","transportAmountUpperBound":"9"}],"status":true},
     {"bindingID":"g5081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"UBAHN","transport":[{"transportLine":"M18","direction":null}], "transportAmountLowerBound":"9","transportAmountUpperBound":"9"}],"status":false}
   ]
 }
