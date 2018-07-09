@@ -25,6 +25,4 @@
     {"id":"74545fghghgfhgf","bindingID":3,"status":true,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus245","direction":null,"transportAmount":10},
     {"id":"844545fghgfhgfh","bindingID":4,"status":false,"command":"create","radius":500,"latitudeX":13.421166,"longitudeY":52.509768,"transportType":"bus","transportLine":"bus15","direction":null,"transportAmount":13}
   ],
-  "transport":[
-  ]
 }
