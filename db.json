@@ -24,7 +24,7 @@
   ],
   "transport": [
     {"bindingID":"ce081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"BUS","transport":[{"transportLine":"Bus 183","direction":null},{"transportLine":"Bus 245","direction":null}], "transportAmountLowerBound":"","transportAmountUpperBound":"9"}],"status":true},
-    {"bindingID":"qe081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"BUS","transport":[{"transportLine":"Bus 183","direction":null}], "transportAmountLowerBound":"","transportAmountUpperBound":"9"}],"status":"false"}
+    {"bindingID":"qe081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"BUS","transport":[{"transportLine":"Bus 183","direction":null}], "transportAmountLowerBound":"","transportAmountUpperBound":"9"}],"status":false}
 
   ]
 }
