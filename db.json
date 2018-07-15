@@ -4,17 +4,6 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "transportsharingapiPage": [
-    {"conditionId":"qe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
-    {"conditionId":"se081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"fe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
-    {"conditionId":"ge081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
-    {"conditionId":"he081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"oe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"ie081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
-    {"conditionId":"su081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"fr081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false}
-  ],
   "transportsharingapi": [
     {"conditionId":"ce081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
     {"conditionId":"qe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
