@@ -17,7 +17,7 @@
     {"bindingID":"g5081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"UBAHN","transport":[{"transportLine":"M18","direction":null}], "transportAmountLowerBound":"9","transportAmountUpperBound":"9"}],"status":false}
   ],
   "sharingapiPage": [
-    {"conditionId":"fe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false}
+    {"conditionId":"fe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
     {"conditionId":"qr081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
     {"conditionId":"st081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
     {"conditionId":"f6081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false}    
