@@ -19,12 +19,6 @@
   "sharingapiPage": [
     {"conditionId":"23481440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
     {"conditionId":"12381440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"jg081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
-    {"conditionId":"kl081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
-    {"conditionId":"he0gh81440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"oegfh081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"ie08gh1440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false},
-    {"conditionId":"sudg081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":true},
-    {"conditionId":"frdfg081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false}
-  ],
+    {"conditionId":"jg081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"status":false}
+   ]
 }
