@@ -29,15 +29,11 @@
         {
           "transportLine": "bus147",
           "direction": null
-        },
-        {
-          "transportLine": "bus265",
-          "direction": "U Stadtmitte/Krausenstr."
         }
       ],
       "transportAmountLowerBound": 1,
       "transportAmountUpperBound": 5,
-      "status": false
+      "status": true
     },
     {
       "bindingID": 1211,
@@ -47,10 +43,6 @@
       "longitudeY": 52.5095732,
       "transportType": "bus",
       "transport": [
-        {
-          "transportLine": "bus147",
-          "direction": null
-        },
         {
           "transportLine": "bus265",
           "direction": "U Stadtmitte/Krausenstr."
