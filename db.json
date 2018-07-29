@@ -5,10 +5,10 @@
     { "id": 2, "title": "Post 2" }
   ],
   "transportsharingapi": [
-    {"conditionId":"ce081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerbound":500000.0,"upperbound":1,"status":false},
-    {"conditionId":"qe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerbound":500000.0,"upperbound":1,"status":false},
-    {"conditionId":"se081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerbound":500000.0,"upperbound":1,"status":true},
-    {"conditionId":"fe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerbound":500000.0,"upperbound":1,"status":false}
+    {"conditionId":"ce081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerBound":500000.0,"upperBound":1,"status":false},
+    {"conditionId":"qe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerBound":500000.0,"upperBound":1,"status":true},
+    {"conditionId":"se081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Car","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerBound":500000.0,"upperBound":1,"status":true},
+    {"conditionId":"fe081440-82a9-11e8-9b5b-3bfd459ee839","vehicleType":"Bike","provider":"callabike","longitude":52.5317165,"latitude":14.374215,"areaRadius":500000.0,"numberOfVehicles":1,"lowerBound":500000.0,"upperBound":1,"status":false}
   ],
   "transport": [
     {"bindingID":"ce081440-82a9-11e8-9b5b-3bfd459ee839","settings":"","condition":[{"radius":238.5657173378869,"latitudeX":52.52339222417945,"longitudeY":13.373196645263647,"transportType":"BUS","transport":[{"transportLine":"Bus 183","direction":"HBF"},{"transportLine":"Bus 245","direction":null}], "transportAmountLowerBound":"","transportAmountUpperBound":"9"}],"status":true},
