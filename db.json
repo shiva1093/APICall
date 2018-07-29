@@ -59,8 +59,50 @@
       "transportAmountLowerBound": 1,
       "transportAmountUpperBound": 5,
       "status": false
+    },
+    {
+      "bindingID": 1311,
+      "command": "CREATE",
+      "radius": 1800,
+      "latitudeX": 13.4208659,
+      "longitudeY": 52.5095732,
+      "transportType": "train",
+      "transport": [
+        {
+          "transportLine": "S6",
+          "direction": null
+        },
+        {
+          "transportLine": "S6",
+          "direction": "Stadtmitte/Krausenstr."
+        }
+      ],
+      "transportAmountLowerBound": 1,
+      "transportAmountUpperBound": 51,
+      "status": false
+    },
+    {
+      "bindingID": 1611,
+      "command": "CREATE",
+      "radius": 1500,
+      "latitudeX": 13.4208659,
+      "longitudeY": 52.5095732,
+      "transportType": "tram",
+      "transport": [
+        {
+          "transportLine": "M7",
+          "direction": null
+        },
+        {
+          "transportLine": "M7",
+          "direction": "Stadtmitte/Krausenstr."
+        }
+      ],
+      "transportAmountLowerBound": 1,
+      "transportAmountUpperBound": 5,
+      "status": true
     }
   ],
-  "rulesAmount": 2
+  "rulesAmount": 4
 }
 }
